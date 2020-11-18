@@ -1,5 +1,9 @@
 # Links
 
+## SSL
+- Security with HTTPS and SSL  
+  https://developer.android.com/training/articles/security-ssl.html
+
 ## SQLite  
   https://developer.android.com/training/data-storage/sqlite
 
